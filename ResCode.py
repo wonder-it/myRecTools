@@ -90,7 +90,7 @@ def main():
 
             login()
         # 每san秒钟检测一次
-        # time.sleep(3)
+        # time.sleep(1)
 
 if __name__ == "__main__":
     main()
